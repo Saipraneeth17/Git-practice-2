@@ -3,7 +3,7 @@ Hello bro ssup?
 3
 4
 5
-push dir2
+
 c1
 
 c2
